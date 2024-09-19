@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gravitypdf/querypath": "^4.0"
+    }
+}
